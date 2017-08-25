@@ -29,6 +29,7 @@ The goals / steps of this project are the following:
 [image4]: ./examples/warped_straight_lines.jpg "Warp Example"
 [image5]: ./examples/color_fit_lines.jpg "Fit Visual"
 [image6]: ./examples/example_output.jpg "Output"
+[gif1]: ./report_images/lane_detection.gif
 [video1]: ./project_video.mp4 "Video"
 
 
@@ -98,8 +99,8 @@ The lanes in the image above are warped back and blended with the original image
 ---
 
 ### Pipeline (video)
-
-Here's a [link to my video result](./lane_detection.mp4)
+![alt text][gif1]  
+Here's a [link to this video result](./lane_detection.mp4)
 
 ---
 
